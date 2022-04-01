@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/login.scss";
+import "@styles/login.scss";
 
 const Login = () => {
   return (
@@ -7,7 +7,7 @@ const Login = () => {
       <div className="form-container">
         <img src="" alt="logo" className="logo" />
         <h1 className="title">Create a new password</h1>
-        <p className="subtitle">Enter a new passwrd for yue account</p>
+        <p className="subtitle">Enter a new password for yue account</p>
         <form action="/" className="form">
           <label htmlFor="password" className="label">
             Password
