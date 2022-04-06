@@ -1,5 +1,5 @@
 import React from "react";
-import "@styles/header.scss";
+import "@styles/Header.scss";
 import menuIcon from "@icons/icon_menu.svg";
 import marcLogo from "@logos/logo_yard_sale.svg";
 import shoppingIcon from "@icons/icon_shopping_cart.svg";
@@ -22,7 +22,7 @@ const Header = () => {
             <a href="/">Electronics</a>
           </li>
           <li>
-            <a href="/">Furnitures</a>
+            <a href="/">Furnishings</a>
           </li>
           <li>
             <a href="/">Toys</a>
